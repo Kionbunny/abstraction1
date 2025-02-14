@@ -13,5 +13,8 @@ public class Main {
             System.out.println("i = " + i);
 
         }
+        // creating an object for Vijaya class
+        Vijaya vj = new Vijaya();
+        vj.SumIntegers();
     }
 }
